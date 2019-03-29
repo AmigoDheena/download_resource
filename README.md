@@ -1,4 +1,4 @@
-# Download_Resource
+# Download_Resource - Bookmarklet
 You can download List of Image, CSS, JS as text file, form the webpage.
 
 Just add this into the URL section of a new bookmark:
